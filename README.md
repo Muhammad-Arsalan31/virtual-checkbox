@@ -1,5 +1,2 @@
-# Mantine Vite template
-
-Get started with the template by clicking `Use this template` button on the top of the page.
-
-[Documentation](https://mantine.dev/guides/vite/)
+This is a mantine checkbox list that generates 10000 checboxes , and can checked and unchecked with `Select All` Checkbox.
+The component uses `react-virtuoso` lib to virtualize the list
